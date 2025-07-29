@@ -14,7 +14,9 @@ A simple chatbot application built with React, Tailwind CSS, and integrated with
 - **React Icons**: Used for chat icons (such as the paper airplane icon).
 - **Gemini AI**: AI model by Google to generate content based on user input.
 
-## Setup Instructions
+
+## Screenshot
+![Gambar 1](screenshot/1.png)
 
 ### Prerequisites
 
